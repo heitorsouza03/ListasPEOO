@@ -1,0 +1,4 @@
+C:\Users\Heitor\source\repos\Lista19\Q5\obj\Debug\netcoreapp2.1\Q5.csprojAssemblyReference.cache
+C:\Users\Heitor\source\repos\Lista19\Q5\obj\Debug\netcoreapp2.1\Q5.csproj.CoreCompileInputs.cache
+C:\Users\Heitor\source\repos\Lista19\Q5\obj\Debug\netcoreapp2.1\Q5.AssemblyInfoInputs.cache
+C:\Users\Heitor\source\repos\Lista19\Q5\obj\Debug\netcoreapp2.1\Q5.AssemblyInfo.cs

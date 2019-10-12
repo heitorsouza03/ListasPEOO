@@ -1,0 +1,11 @@
+C:\Users\Heitor\source\repos\Lista19\Q2\obj\Debug\netcoreapp2.1\Q2.csprojAssemblyReference.cache
+C:\Users\Heitor\source\repos\Lista19\Q2\obj\Debug\netcoreapp2.1\Q2.csproj.CoreCompileInputs.cache
+C:\Users\Heitor\source\repos\Lista19\Q2\obj\Debug\netcoreapp2.1\Q2.AssemblyInfoInputs.cache
+C:\Users\Heitor\source\repos\Lista19\Q2\obj\Debug\netcoreapp2.1\Q2.AssemblyInfo.cs
+C:\Users\Heitor\source\repos\Lista19\Q2\bin\Debug\netcoreapp2.1\Q2.deps.json
+C:\Users\Heitor\source\repos\Lista19\Q2\bin\Debug\netcoreapp2.1\Q2.runtimeconfig.json
+C:\Users\Heitor\source\repos\Lista19\Q2\bin\Debug\netcoreapp2.1\Q2.runtimeconfig.dev.json
+C:\Users\Heitor\source\repos\Lista19\Q2\bin\Debug\netcoreapp2.1\Q2.dll
+C:\Users\Heitor\source\repos\Lista19\Q2\bin\Debug\netcoreapp2.1\Q2.pdb
+C:\Users\Heitor\source\repos\Lista19\Q2\obj\Debug\netcoreapp2.1\Q2.dll
+C:\Users\Heitor\source\repos\Lista19\Q2\obj\Debug\netcoreapp2.1\Q2.pdb
