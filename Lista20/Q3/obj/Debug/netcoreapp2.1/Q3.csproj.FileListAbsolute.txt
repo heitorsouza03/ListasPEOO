@@ -1,0 +1,11 @@
+C:\Users\Heitor\source\repos\Lista192\Lista20\Q3\bin\Debug\netcoreapp2.1\Q3.deps.json
+C:\Users\Heitor\source\repos\Lista192\Lista20\Q3\bin\Debug\netcoreapp2.1\Q3.runtimeconfig.json
+C:\Users\Heitor\source\repos\Lista192\Lista20\Q3\bin\Debug\netcoreapp2.1\Q3.runtimeconfig.dev.json
+C:\Users\Heitor\source\repos\Lista192\Lista20\Q3\bin\Debug\netcoreapp2.1\Q3.dll
+C:\Users\Heitor\source\repos\Lista192\Lista20\Q3\bin\Debug\netcoreapp2.1\Q3.pdb
+C:\Users\Heitor\source\repos\Lista192\Lista20\Q3\obj\Debug\netcoreapp2.1\Q3.csprojAssemblyReference.cache
+C:\Users\Heitor\source\repos\Lista192\Lista20\Q3\obj\Debug\netcoreapp2.1\Q3.csproj.CoreCompileInputs.cache
+C:\Users\Heitor\source\repos\Lista192\Lista20\Q3\obj\Debug\netcoreapp2.1\Q3.AssemblyInfoInputs.cache
+C:\Users\Heitor\source\repos\Lista192\Lista20\Q3\obj\Debug\netcoreapp2.1\Q3.AssemblyInfo.cs
+C:\Users\Heitor\source\repos\Lista192\Lista20\Q3\obj\Debug\netcoreapp2.1\Q3.dll
+C:\Users\Heitor\source\repos\Lista192\Lista20\Q3\obj\Debug\netcoreapp2.1\Q3.pdb
